@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "question1":"How many team members can I invite?",
+        "response":"No more than 2GB. All files in your account must fit your alloted storage space"
+    },
+    {
+        "id":2,
+        "question1":"What is the maximun file upload size?",
+        "response":"No more than 2GB. All files in your account must fit your alloted storage space"
+    },
+    {
+        "id":3,
+        "question1":"How do I reset my password?",
+        "response":"No more than 2GB. All files in your account must fit your alloted storage space"
+    },
+    {
+        "id":4,
+        "question1":"Can I cancel my subscription?",
+        "response":"No more than 2GB. All files in your account must fit your alloted storage space"
+    },
+    {
+        "id":5,
+        "question1":"Do you provide additional support?",
+        "response":"No more than 2GB. All files in your account must fit your alloted storage space"
+    }
+]
