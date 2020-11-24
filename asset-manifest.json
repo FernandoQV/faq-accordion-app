@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/github.io/faq-accordion-app/static/js/main.9b243886.chunk.js",
+    "main.js.map": "/github.io/faq-accordion-app/static/js/main.9b243886.chunk.js.map",
+    "runtime-main.js": "/github.io/faq-accordion-app/static/js/runtime-main.de14a49d.js",
+    "runtime-main.js.map": "/github.io/faq-accordion-app/static/js/runtime-main.de14a49d.js.map",
+    "static/js/2.11179838.chunk.js": "/github.io/faq-accordion-app/static/js/2.11179838.chunk.js",
+    "static/js/2.11179838.chunk.js.map": "/github.io/faq-accordion-app/static/js/2.11179838.chunk.js.map",
+    "index.html": "/github.io/faq-accordion-app/index.html",
+    "static/js/2.11179838.chunk.js.LICENSE.txt": "/github.io/faq-accordion-app/static/js/2.11179838.chunk.js.LICENSE.txt",
+    "static/media/bg-pattern-desktop.f51e07a2.svg": "/github.io/faq-accordion-app/static/media/bg-pattern-desktop.f51e07a2.svg",
+    "static/media/bg-pattern-mobile.55aee912.svg": "/github.io/faq-accordion-app/static/media/bg-pattern-mobile.55aee912.svg",
+    "static/media/icon-arrow-down.852fa301.svg": "/github.io/faq-accordion-app/static/media/icon-arrow-down.852fa301.svg",
+    "static/media/illustration-box-desktop.ec1ba14b.svg": "/github.io/faq-accordion-app/static/media/illustration-box-desktop.ec1ba14b.svg",
+    "static/media/illustration-woman-online-desktop.843eb114.svg": "/github.io/faq-accordion-app/static/media/illustration-woman-online-desktop.843eb114.svg",
+    "static/media/illustration-woman-online-mobile.0ec5a893.svg": "/github.io/faq-accordion-app/static/media/illustration-woman-online-mobile.0ec5a893.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de14a49d.js",
+    "static/js/2.11179838.chunk.js",
+    "static/js/main.9b243886.chunk.js"
+  ]
+}
